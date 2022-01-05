@@ -1,0 +1,23 @@
+.form {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid #000000;
+}
+
+.input_group input {
+    width: 300px;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.input_group {
+    text-align: center;
+}
+
+.input_group button {
+    width: 300px;
+    margin: 10px 0;
+    padding: 10px;
+    background: #ffffff;
+    border: 1ps solid red;
+}
